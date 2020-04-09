@@ -1,0 +1,1 @@
+# wix-reward-widget-settings
